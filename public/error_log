@@ -1,0 +1,4 @@
+[07-Feb-2024 23:04:52 UTC] PHP Fatal error:  Cannot use [] for reading in /home/webesteu/test.innowave.dev/RocketStudio/app/Http/Controllers/CVController.php on line 36
+[07-Feb-2024 23:04:52 UTC] PHP Fatal error:  Cannot use [] for reading in /home/webesteu/test.innowave.dev/RocketStudio/app/Http/Controllers/CVController.php on line 36
+[08-Feb-2024 17:08:44 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/webesteu/test.innowave.dev/RocketStudio/storage/framework/views/39ddb3183c1a5ecd2a997c0b2fa2f753.php on line 88
+[08-Feb-2024 17:08:48 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/webesteu/test.innowave.dev/RocketStudio/storage/framework/views/39ddb3183c1a5ecd2a997c0b2fa2f753.php on line 88
