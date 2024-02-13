@@ -31,4 +31,5 @@ Route::get('/reports', [ReportController::class, 'index'])->name('reports');
 Route::post('/university-store', [UniversityController::class, 'store'])->name('university.store');
 Route::post('/technology-store', [TechnologyController::class, 'store'])->name('technology.store');
 Route::post('/cv-store', [CVController::class, 'store'])->name('cv.store');
-Route::post('/reports', [ReportController::class, 'showCVsByBirthDate'])->name('report.birthdate');
+Route::post('/reports-birthdate', [ReportController::class, 'showCVsByBirthDate'])->name('report.birthdate');
+Route::post('/reports-age-technologies', [ReportController::class, 'showByAgeTechnologies'])->name('report.age-technologies');
